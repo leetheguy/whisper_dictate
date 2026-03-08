@@ -73,7 +73,9 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 ---
 
-Human note:
+Ackshual hooman note:
+``` xml
 <rant>
 See! Was that so hard? There are so many transcription tools out there and most are garbage. Hard to install. Sell you credits instead of let you byok. Fail out of the gate. Too many features. So here you go. Hopefully this "just works"™ for you too!
 </rant>
+```
